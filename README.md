@@ -1,0 +1,2 @@
+# tictactoe
+This is a coding challenge to build a “computer player” which is able to play tic-tac-toe on a board varying from 3×3 to 10×10 in size. In order to win, the player has to put either “X” or “O” on any horizontal, vertical or diagonal line across the entire board. Visit my website for a detailed explanation of how I designed the gaming strategy of the "computer player": http://dataandstuff.com
