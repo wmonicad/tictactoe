@@ -3,4 +3,4 @@ This is a coding challenge to build a “computer player” which is able to pla
 
 I have designed a gaming strategy in which a "score" will be calculated for each empty space depending on the number of "X"s and "O"s along the same horizontal/vertical/diagonal line, and the "computer player" will pick the space with the higest score.
 
-Visit my website for a detailed explanation of the gaming strategy: [dataandstuff.com/tictactoe](https://monicawongds.wordpress.com/2018/01/13/tic-tac-toe-a-coding-challenge/)
+Visit my website for a detailed explanation of the gaming strategy: [dataandstuff.com/tictactoe](https://monicawongds.wordpress.com/2018/01/13/tic-tac-toe/)
